@@ -3,5 +3,7 @@
   <declare-styleable name="AnimatedCircleLoadingView">
     <attr name="mainColor" format="color" localization="suggested" />
     <attr name="secondaryColor" format="color" localization="suggested" />
+    <attr name="checkMarkTintColor" format="color" localization="suggested" />
+    <attr name="failureMarkTintColor" format="color" localization="suggested" />
   </declare-styleable>
 </resources>
